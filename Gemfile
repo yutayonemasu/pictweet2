@@ -50,3 +50,4 @@ end
   gem 'sprockets', '2.11.0'
   gem 'pry-rails'
   gem 'kaminari'
+  gem 'devise'
